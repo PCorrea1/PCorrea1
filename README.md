@@ -30,9 +30,11 @@ I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer
 
 - :running: Training for the Publix 2023 Marathon.
 
-- :zap: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing the Spring 2022 semester on the Dean's List
+- :zap: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing the Spring 2022 semester 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :surfing_man: US Marine stationed in Kaneohe Bay, HI from 2014-2018 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-correa-67b4601b6/)
   
  
 

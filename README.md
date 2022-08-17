@@ -24,7 +24,7 @@
  </h1>
 
 ### :man_technologist: About Me :
-I am a Senior at Georgia Tech originally from Colombia. ### :colombia:
+I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer Science.
   
  
 

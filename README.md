@@ -25,6 +25,14 @@
 
 ### :man_technologist: About Me :
 I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer Science.
+
+- :desktop_computer: I have industry experience and enjoy to work on personal projects in my free time.
+
+- :running: Training for the Publix 2023 Marathon.
+
+- :zap: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing the Spring 2022 semester on the Dean's List
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   
  
 

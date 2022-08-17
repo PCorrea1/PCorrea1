@@ -21,9 +21,8 @@
  
  </div> 
  ---
-<div id="about me" align="left">
+
 ### :man_technologist: About Me :
   
  
-</div>
 

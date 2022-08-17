@@ -34,7 +34,7 @@ I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer
 
 - :surfing_man: US Marine stationed in Kaneohe Bay, HI from 2014-2018 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-correa-67b4601b6/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pablo Correa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-correa-67b4601b6/)
   
  
 

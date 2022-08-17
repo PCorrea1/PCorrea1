@@ -30,7 +30,7 @@ I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer
 
 - :running: Training for the Publix 2023 Marathon.
 
-- :zap: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing the Spring 2022 semester 
+- :school: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing the Spring 2022 semester with the Dean's List academic honor.
 
 - :surfing_man: US Marine stationed in Kaneohe Bay, HI from 2014-2018 
 

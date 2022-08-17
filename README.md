@@ -17,7 +17,7 @@
   </a>
   
   <a href="https://www.strava.com/athletes/105768818">
-    <img src="https://img.shields.io/badge/Strava-orange?style=for-the-badge&logo=strava&logoColor=white%22" alt="Strava"/>
+    <img src="https://img.shields.io/badge/Strava-white?style=for-the-badge&logo=strava&logoColor=white%22" alt="Strava"/>
   </a>
   
   <a href="https://www.instagram.com/pablo.acc/">

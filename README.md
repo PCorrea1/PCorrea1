@@ -20,9 +20,8 @@
   </a>
  
  </div> 
- <div id="divider" align="center">
- ----
- </div>
+<h1>
+ </h1>
 
 ### :man_technologist: About Me :
   

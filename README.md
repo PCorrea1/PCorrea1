@@ -24,6 +24,7 @@
  </h1>
 
 ### :man_technologist: About Me :
+I am a Senior at Georgia Tech originally from Colombia. :colombia:
   
  
 

@@ -32,7 +32,7 @@
 ### :man_technologist: About Me :
 I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer Science.
 
-- :desktop_computer: I have industry experience and enjoy to work on personal projects in my free time.
+- :desktop_computer: I enjoy to work on personal projects in my free time.
 
 - :running: Training for the Publix 2023 Marathon.
 

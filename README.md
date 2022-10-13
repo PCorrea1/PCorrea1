@@ -20,9 +20,7 @@
     <img src="https://img.shields.io/badge/Strava-white?style=for-the-badge&logo=strava&logoColor=white%22" alt="Strava"/>
   </a>
   
-  <a href="https://www.instagram.com/pablo.acc/">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red%22" alt="Instagram Badge"/>
-  </a>
+  
  
  </div> 
 

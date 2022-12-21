@@ -28,13 +28,13 @@
 
 
 ### :man_technologist: About Me :
-I am a Senior at Georgia Tech graduating December 2022 with a degree in Computer Science.
+I am a Georgia Tech Alumnus with a Bachelor's degree in Computer Science. I am beginning my career as a Software Engineer with NCR in February of 2023
 
 - :desktop_computer: I enjoy to work on personal projects in my free time.
 
 - :running: Training for the Publix 2023 Marathon.
 
-- :school: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing the Spring 2022 semester with the Dean's List academic honor.
+- :school: This past year I have spent time working for NCR's Business Services Layer on the Transaction Document Team and completing both the Spring 2022 and Fall 2022 semesters with Dean's List academic honors.
 
 - :surfing_man: US Marine stationed in Kaneohe Bay, HI from 2014-2018 
 

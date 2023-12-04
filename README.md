@@ -32,7 +32,7 @@ I am a Georgia Tech Alumnus with a Bachelor's degree in Computer Science. I am a
 
 - :desktop_computer: I enjoy to work on personal projects in my free time.
 
-- :running: Ironman training for the next 18 months
+- :running: Recently completed a half ironman, aiming to complete a full one in 2025
 
 - :school: Recent Georgia Tech graduate
 
